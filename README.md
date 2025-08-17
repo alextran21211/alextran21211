@@ -1,3 +1,17 @@
+<div align="center">
+  <!-- Profile Animation -->
+  <img src="assets/Working%20Online.gif" alt="working online" width="400"/>
+
+  <!-- Socials and Profile Views -->
+  <br/>
+  <a href="https://www.linkedin.com/in/alextran21211">
+    <img src="https://img.shields.io/badge/LinkedIn-alextran21211-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>  
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=alextran21211&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</div>
+
+
 # Hi there, I'm Alex 👋
 
 ## 🚀 About Me

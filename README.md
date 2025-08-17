@@ -2,25 +2,22 @@
   <!-- Picture / Animation -->
   <img src="assets/working-online.gif" alt="Working Online Animation" width="400"/>
 
-  <!-- Small gap -->
-  <br/><br/>
+  <br/>
 
   <!-- LinkedIn Button -->
   <a href="https://www.linkedin.com/in/alextran21211">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <!-- Small gap -->
-  <br/><br/>
+  <br/>
 
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=alextran21211&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 
-  <!-- Small gap -->
-  <br/><br/>
+  <br/>
 
   <!-- Intro -->
-  <h2>Hi there, I'm Alex 👋</h2>
+  <h1>Hi, I'm Alex 👋</h1>
 </div>
 
 

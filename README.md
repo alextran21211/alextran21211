@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Profile Animation -->
-  <img src="assets/Working%20Online.gif" alt="working online" width="400"/>
+  <img src="assets/working-online.gif" alt="working online" width="400"/>
 
   <!-- Socials and Profile Views -->
   <br/>

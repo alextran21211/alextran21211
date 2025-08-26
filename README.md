@@ -22,8 +22,6 @@
 
 
 
-# Hi there, I'm Alex 👋
-
 ## 🚀 About Me
 I’m a **Data Engineer** with 3+ years of software engineering experience and a Post-Baccalaureate Diploma in Applied Data Science from Thompson Rivers University (GPA 4.10/4.33).  
 I specialize in Python, SQL, and cloud data solutions, building scalable data pipelines, machine learning models, and interactive dashboards that transform raw data into actionable insights.
@@ -38,13 +36,13 @@ I specialize in Python, SQL, and cloud data solutions, building scalable data pi
 
 ## 📂 Featured Projects
 - **📈 Walmart Sales Forecasting & Time Series Analysis** – ARIMA, SARIMA, XGBoost models for retail sales forecasting.  
-  *[View Project](https://github.com/alextran21211/walmart-sales-forecast)*
+  <!-- *[View Project](https://github.com/alextran21211/walmart-sales-forecast)* -->
 - **🔥 Wildfire Detection & Prediction** – CNN & LSTM models for early wildfire detection and spread forecasting.  
-  *[View Project](https://github.com/alextran21211/wildfire-prediction)*
+  <!-- *[View Project](https://github.com/alextran21211/wildfire-prediction)* -->
 - **🌍 CO₂ Emission Analysis** – PySpark ETL pipelines with MongoDB & Power BI dashboards for global emissions.  
-  *[View Project](https://github.com/alextran21211/co2-emission-analysis)*
+  <!-- *[View Project](https://github.com/alextran21211/co2-emission-analysis)* -->
 - **📊 Operational Efficiency Analysis** – PCA & K-Means to detect manufacturing inefficiencies.  
-  *[View Project](https://github.com/alextran21211/operational-efficiency)*
+  <!-- *[View Project](https://github.com/alextran21211/operational-efficiency)* -->
 
 ## 🎓 Education
 - **Post-Baccalaureate Diploma in Applied Data Science** – Thompson Rivers University, Canada (Distinction)

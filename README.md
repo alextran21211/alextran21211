@@ -24,6 +24,7 @@
 
 ## 🚀 About Me
 I’m a data and systems professional with 4+ years of technical experience across software engineering, enterprise systems, data analytics, business analysis, reporting, and automation. I currently work as a **Student Systems Operations Specialist** at Thompson Rivers University and hold a Post-Baccalaureate Diploma in Applied Data Science (GPA 4.10/4.33, Distinction).
+
 I specialize in business systems, SQL, Python, Power BI, data quality, reporting, automation, and practical data solutions that improve processes and support better decision-making. I’m also interested in AI and how it can enhance analytics, business systems, and operational workflows.
 
 ## 🛠️ Technical Skills

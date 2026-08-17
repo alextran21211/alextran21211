@@ -23,8 +23,8 @@
 
 
 ## 🚀 About Me
-I’m a **Systems Operations Specialist at Thompson Rivers University** with 4+ years of technical experience across software engineering, enterprise systems, data analytics, reporting, and automation. I hold a Post-Baccalaureate Diploma in Applied Data Science from Thompson Rivers University (GPA 4.10/4.33, Distinction).  
-I specialize in business systems, SQL, Python, Power BI, data quality, reporting, automation, and practical data solutions that support better decision-making. I’m also interested in AI and how it can improve analytics, business systems, and operational workflows.
+I’m a data and systems professional with 4+ years of technical experience across software engineering, enterprise systems, data analytics, business analysis, reporting, and automation. I currently work as a **Student Systems Operations Specialist** at Thompson Rivers University and hold a Post-Baccalaureate Diploma in Applied Data Science (GPA 4.10/4.33, Distinction).
+I specialize in business systems, SQL, Python, Power BI, data quality, reporting, automation, and practical data solutions that improve processes and support better decision-making. I’m also interested in AI and how it can enhance analytics, business systems, and operational workflows.
 
 ## 🛠️ Technical Skills
 - **Programming & Analytics**: Python (Pandas, PySpark), SQL, R, Bash
@@ -35,12 +35,12 @@ I specialize in business systems, SQL, Python, Power BI, data quality, reporting
 - **Workflows & Systems**: Data Quality, Data Governance, Requirements Gathering, UAT, Agile, System Integration, Documentation
 
 ## 📂 Featured Projects
-- **📈 Walmart Sales Forecasting & Time Series Analysis** – Analyzed 100K+ sales records using SQL, Excel, and Python; built Power BI dashboards and ARIMA/SARIMA forecasting models.  
-  <!-- *[View Project](https://github.com/alextran21211/walmart-sales-forecast)* -->
-- **🌍 CO₂ Emission ETL & Data Pipeline** – Built PySpark ETL pipelines and Power BI data models to analyze emission trends and support decision-making.  
-  <!-- *[View Project](https://github.com/alextran21211/co2-emission-analysis)* -->
-- **📊 Superstore Sales Dashboard** – Developed Tableau KPI dashboards and automated recurring reporting processes, reducing weekly manual reporting effort by 80%.  
-  <!-- *[View Project](https://github.com/alextran21211/superstore-sales-dashboard)* -->
+📈 Walmart Sales Forecasting & Time Series Analysis – Analyzed 100K+ sales records using SQL, Excel, and Python; built Power BI dashboards and ARIMA/SARIMA/XGBoost forecasting models.
+ <!-- *[View Project](https://github.com/alextran21211/walmart-sales-forecast)* -->
+🔥 Wildfire Detection & Prediction – Developed CNN and LSTM models to detect wildfire risks, analyze spatial-temporal patterns, and support early prediction of fire spread. <!-- *[View Project](https://github.com/alextran21211/wildfire-prediction)* -->
+🌍 CO₂ Emission ETL & Data Pipeline – Built PySpark ETL pipelines and Power BI data models to analyze emission trends and support decision-making. <!-- *[View Project](https://github.com/alextran21211/co2-emission-analysis)* -->
+📊 Operational Efficiency Analysis – Applied PCA and K-Means clustering to identify operational patterns, detect inefficiencies, and support process improvement. <!-- *[View Project](https://github.com/alextran21211/operational-efficiency)* -->
+📊 Superstore Sales Dashboard – Developed Tableau KPI dashboards and automated recurring reporting processes, reducing weekly manual reporting effort by 80%. <!-- *[View Project](https://github.com/alextran21211/superstore-sales-dashboard)* -->
 
 ## 🎓 Education
 - **Post-Baccalaureate Diploma in Applied Data Science** – Thompson Rivers University, Canada (Distinction, GPA 4.10/4.33)
@@ -63,3 +63,4 @@ I specialize in business systems, SQL, Python, Power BI, data quality, reporting
 - **LinkedIn**: [linkedin.com/in/alextran21211](https://linkedin.com/in/alextran21211)  
 - **GitHub**: [github.com/alextran21211](https://github.com/alextran21211)  
 - **Email**: alextran21211@gmail.com
+- **TRU Email**: altran@tru.ca

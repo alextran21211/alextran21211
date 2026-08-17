@@ -48,7 +48,7 @@ Developed CNN and LSTM models to detect wildfire risks, analyze spatial-temporal
 Built PySpark ETL pipelines and Power BI data models to analyze emission trends and support decision-making. 
 <!-- *[View Project](https://github.com/alextran21211/co2-emission-analysis)* -->
 
-📊 **Operational Efficiency Analysis**  
+⚙️ **Operational Efficiency Analysis**  
 Applied PCA and K-Means clustering to identify operational patterns, detect inefficiencies, and support process improvement. 
 <!-- *[View Project](https://github.com/alextran21211/operational-efficiency)* -->
 

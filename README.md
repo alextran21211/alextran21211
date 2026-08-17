@@ -23,44 +23,41 @@
 
 
 ## 🚀 About Me
-I’m a **Data Engineer** with 3+ years of software engineering experience and a Post-Baccalaureate Diploma in Applied Data Science from Thompson Rivers University (GPA 4.10/4.33).  
-I specialize in Python, SQL, and cloud data solutions, building scalable data pipelines, machine learning models, and interactive dashboards that transform raw data into actionable insights.
+I’m a **Systems Operations Specialist at Thompson Rivers University** with 4+ years of technical experience across software engineering, enterprise systems, data analytics, reporting, and automation. I hold a Post-Baccalaureate Diploma in Applied Data Science from Thompson Rivers University (GPA 4.10/4.33, Distinction).  
+I specialize in business systems, SQL, Python, Power BI, data quality, reporting, automation, and practical data solutions that support better decision-making. I’m also interested in AI and how it can improve analytics, business systems, and operational workflows.
 
 ## 🛠️ Technical Skills
-- **Programming**: Python, SQL, R, Erlang, C/C++, .NET
-- **Visualization**: Power BI, Tableau, Excel, Matplotlib
-- **Databases**: MySQL, SQL Server, MongoDB, GraphQL (familiar)
-- **Cloud & Big Data**: Azure, Spark, Hadoop, PySpark, Docker
-- **AI & Data Science**: Machine Learning, Predictive Analytics, NLP, LSTM, CNN
-- **Workflows & Tools**: Git, Docker, ETL, REST APIs, Bash, CI/CD, Airflow (familiar)
+- **Programming & Analytics**: Python (Pandas, PySpark), SQL, R, Bash
+- **Visualization & BI**: Power BI, Tableau, Excel, KPI Reporting, Data Visualization
+- **Databases & Data Platforms**: Oracle Database, Databricks, Azure
+- **Enterprise Systems**: Ellucian Banner, Argos, Oracle SQL Developer
+- **Data Engineering**: ETL Pipelines, Data Modeling, REST APIs, Automation
+- **Workflows & Systems**: Data Quality, Data Governance, Requirements Gathering, UAT, Agile, System Integration, Documentation
 
 ## 📂 Featured Projects
-- **📈 Walmart Sales Forecasting & Time Series Analysis** – ARIMA, SARIMA, XGBoost models for retail sales forecasting.  
+- **📈 Walmart Sales Forecasting & Time Series Analysis** – Analyzed 100K+ sales records using SQL, Excel, and Python; built Power BI dashboards and ARIMA/SARIMA forecasting models.  
   <!-- *[View Project](https://github.com/alextran21211/walmart-sales-forecast)* -->
-- **🔥 Wildfire Detection & Prediction** – CNN & LSTM models for early wildfire detection and spread forecasting.  
-  <!-- *[View Project](https://github.com/alextran21211/wildfire-prediction)* -->
-- **🌍 CO₂ Emission Analysis** – PySpark ETL pipelines with MongoDB & Power BI dashboards for global emissions.  
+- **🌍 CO₂ Emission ETL & Data Pipeline** – Built PySpark ETL pipelines and Power BI data models to analyze emission trends and support decision-making.  
   <!-- *[View Project](https://github.com/alextran21211/co2-emission-analysis)* -->
-- **📊 Operational Efficiency Analysis** – PCA & K-Means to detect manufacturing inefficiencies.  
-  <!-- *[View Project](https://github.com/alextran21211/operational-efficiency)* -->
+- **📊 Superstore Sales Dashboard** – Developed Tableau KPI dashboards and automated recurring reporting processes, reducing weekly manual reporting effort by 80%.  
+  <!-- *[View Project](https://github.com/alextran21211/superstore-sales-dashboard)* -->
 
 ## 🎓 Education
-- **Post-Baccalaureate Diploma in Applied Data Science** – Thompson Rivers University, Canada (Distinction)
+- **Post-Baccalaureate Diploma in Applied Data Science** – Thompson Rivers University, Canada (Distinction, GPA 4.10/4.33)
 - **Bachelor of Engineering in Information Technology** – PTIT, Vietnam (Top 3 in class)
 
 ## 💼 Experience
-- **Software Engineer** – DEK Technologies (Now Endava), Vietnam  
-  Designed telecom software, analyzed large datasets, optimized system performance, and implemented automation scripts.
-- **Coding Educator** – BrightCHAMPS, Vietnam  
-  Taught programming to beginner students, fostering logical thinking and problem-solving.
-- **Stock Unloader Associate** – Walmart Canada  
-  Maintained inventory accuracy and supported daily operations.
+- **Student Systems Operations Specialist** – Thompson Rivers University, Canada  
+  Support enterprise student systems, operational reporting, data requests, data quality, and reporting solutions using Banner, Argos, Oracle SQL Developer, SQL, and Excel.
+- **Software Engineer (Data & Systems Analysis)** – DEK Technologies (Now Endava), Vietnam  
+  Supported large-scale Ericsson telecom systems, analyzed operational data and system logs, built web-based dashboards, and developed automation and monitoring tools for reporting and validation.
 
 ## 🌱 Volunteer Work
 - TRU Orientation Volunteer & Team Leader (2023–2025)  
-- CFBX 92.5 FM Radio Host (2023–2024)  
-- Event Director, NDP Club (2023–2024)  
-- TRU Sustain Volunteers Member (2023–2025)
+- Powwow Event Volunteer in Kamloops  
+- CFBX 92.5 FM Radio Host  
+- TRU Sustain Volunteers Member  
+- Participated in community and cultural activities in Kamloops and continue learning about Secwépemc and First Nations histories, cultures, and perspectives.
 
 ## 📫 Connect with Me
 - **LinkedIn**: [linkedin.com/in/alextran21211](https://linkedin.com/in/alextran21211)  

@@ -56,17 +56,6 @@ Applied PCA and K-Means clustering to identify operational patterns, detect inef
 Developed Tableau KPI dashboards and automated recurring reporting processes, reducing weekly manual reporting effort by 80%. 
 <!-- *[View Project](https://github.com/alextran21211/superstore-sales-dashboard)* -->
 
-## 🎓 Education
-
-- **Post-Baccalaureate Diploma in Applied Data Science** – Thompson Rivers University, Canada  
-  *Sep 2023 – May 2025*  
-  Distinction, GPA 4.10/4.33
-
-- **Bachelor of Engineering in Information Technology** – PTIT, Vietnam  
-  *Sep 2012 – May 2016*  
-  Top 3 in class
-
-
 ## 💼 Experience
 
 - **Student Systems Operations Specialist** – Thompson Rivers University, Canada  
@@ -76,6 +65,15 @@ Developed Tableau KPI dashboards and automated recurring reporting processes, re
 - **Software Engineer (Data & Systems Analysis)** – DEK Technologies (Now Endava), Vietnam  
   *Jan 2017 – Dec 2021*  
   Supported large-scale Ericsson telecom systems, analyzed operational data and system logs, built web-based dashboards, and developed automation and monitoring tools for reporting and validation.
+
+## 🎓 Education
+
+- **Post-Baccalaureate Diploma in Applied Data Science** – Thompson Rivers University, Canada  
+  *Sep 2023 – May 2025*  
+  Distinction, GPA 4.10/4.33
+
+- **Bachelor of Engineering in Information Technology** – PTIT, Vietnam  
+    Top 3 in class
 
 ## 🌱 Volunteer Work
 - TRU Orientation Volunteer & Team Leader (2023–2025)  

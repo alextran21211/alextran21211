@@ -35,27 +35,6 @@ I specialize in business systems, SQL, Python, Power BI, data quality, reporting
 - **Data Engineering**: ETL Pipelines, Data Modeling, REST APIs, Automation
 - **Workflows & Systems**: Data Quality, Data Governance, Requirements Gathering, UAT, Agile, System Integration, Documentation
 
-## 📂 Featured Projects
-📈 **Walmart Sales Forecasting & Time Series Analysis**  
-Analyzed 100K+ sales records using SQL, Excel, and Python; built Power BI dashboards and ARIMA/SARIMA/XGBoost forecasting models.
- <!-- *[View Project](https://github.com/alextran21211/walmart-sales-forecast)* -->
- 
-🔥 **Wildfire Detection & Prediction**  
-Developed CNN and LSTM models to detect wildfire risks, analyze spatial-temporal patterns, and support early prediction of fire spread. 
-<!-- *[View Project](https://github.com/alextran21211/wildfire-prediction)* -->
-
-🌍 **CO₂ Emission ETL & Data Pipeline**  
-Built PySpark ETL pipelines and Power BI data models to analyze emission trends and support decision-making. 
-<!-- *[View Project](https://github.com/alextran21211/co2-emission-analysis)* -->
-
-⚙️ **Operational Efficiency Analysis**  
-Applied PCA and K-Means clustering to identify operational patterns, detect inefficiencies, and support process improvement. 
-<!-- *[View Project](https://github.com/alextran21211/operational-efficiency)* -->
-
-📊 **Superstore Sales Dashboard**  
-Developed Tableau KPI dashboards and automated recurring reporting processes, reducing weekly manual reporting effort by 80%. 
-<!-- *[View Project](https://github.com/alextran21211/superstore-sales-dashboard)* -->
-
 ## 💼 Experience
 
 - **Student Systems Operations Specialist** – Thompson Rivers University, Canada  
@@ -65,6 +44,27 @@ Developed Tableau KPI dashboards and automated recurring reporting processes, re
 - **Software Engineer (Data & Systems Analysis)** – DEK Technologies (Now Endava), Vietnam  
   *Jan 2017 – Dec 2021*  
   Supported large-scale Ericsson telecom systems, analyzed operational data and system logs, built web-based dashboards, and developed automation and monitoring tools for reporting and validation.
+  
+## 📂 Featured Projects
+- 📈 **Walmart Sales Forecasting & Time Series Analysis**  
+Analyzed 100K+ sales records using SQL, Excel, and Python; built Power BI dashboards and ARIMA/SARIMA/XGBoost forecasting models.
+ <!-- *[View Project](https://github.com/alextran21211/walmart-sales-forecast)* -->
+ 
+- 🔥 **Wildfire Detection & Prediction**  
+Developed CNN and LSTM models to detect wildfire risks, analyze spatial-temporal patterns, and support early prediction of fire spread. 
+<!-- *[View Project](https://github.com/alextran21211/wildfire-prediction)* -->
+
+- 🌍 **CO₂ Emission ETL & Data Pipeline**  
+Built PySpark ETL pipelines and Power BI data models to analyze emission trends and support decision-making. 
+<!-- *[View Project](https://github.com/alextran21211/co2-emission-analysis)* -->
+
+- ⚙️ **Operational Efficiency Analysis**  
+Applied PCA and K-Means clustering to identify operational patterns, detect inefficiencies, and support process improvement. 
+<!-- *[View Project](https://github.com/alextran21211/operational-efficiency)* -->
+
+- 📊 **Superstore Sales Dashboard**  
+Developed Tableau KPI dashboards and automated recurring reporting processes, reducing weekly manual reporting effort by 80%. 
+<!-- *[View Project](https://github.com/alextran21211/superstore-sales-dashboard)* -->
 
 ## 🎓 Education
 

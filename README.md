@@ -76,11 +76,11 @@ Developed Tableau KPI dashboards and automated recurring reporting processes, re
     Top 3 in class
 
 ## 🌱 Volunteer Work
-- TRU Orientation Volunteer & Team Leader (2023–2025)  
-- Powwow Event Volunteer in Kamloops  
-- CFBX 92.5 FM Radio Host  
-- TRU Sustain Volunteers Member  
-- Participated in community and cultural activities in Kamloops and continue learning about Secwépemc and First Nations histories, cultures, and perspectives.
+- **TRU Orientation Volunteer & Team Leader** (2023–2025)  
+- **CFBX 92.5 FM Radio Host** – Community radio and public communication  
+- **TRU Sustain Volunteer** – Sustainability and campus community initiatives  
+- **Powwow Event Volunteer** – Indigenous cultural and community engagement in Kamloops  
+- **Community Event Volunteer** – Supported Kamloops events including **Canada Day, Kamloops Ribfest, BrewLoops, and TRU Open House**
 
 ## 📫 Connect with Me
 - **LinkedIn**: [linkedin.com/in/alextran21211](https://linkedin.com/in/alextran21211)  
